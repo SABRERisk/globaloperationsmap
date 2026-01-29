@@ -1,0 +1,2 @@
+# globaloperationsmap
+global-operations-map
